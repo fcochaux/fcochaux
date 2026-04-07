@@ -14,6 +14,5 @@ Economista con experiencia en procesamiento y análisis de datos para la toma de
 
 ## 🔗 Enlaces
 
-* [CV (PDF)](./CV_FranciscoChauxG.pdf)
+* [Hoja de vida (PDF)](./CV_FranciscoChauxG.pdf)
 * LinkedIn
-* Portafolio
