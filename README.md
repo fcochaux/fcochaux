@@ -9,8 +9,9 @@ Economista con experiencia en procesamiento y análisis de datos para la toma de
 
 ## 🔧 Herramientas
 
-* R · Python · SQL · SAS · Stata
-* Power BI · Shiny · Tableau · QGIS
+* __Análisis de datos y programación.__ R, Python, SQL, SAS, Stata, Microsoft Excel.
+* __Visualización y geoprocesamiento.__ Power BI, Tableau, QGIS.
+* __Documentación y ofimática.__ LaTex, Microsoft Word, Microsoft Power Point.
 
 ## 🔗 Enlaces
 
