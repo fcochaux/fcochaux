@@ -1,4 +1,4 @@
-# Francisco Chaux
+# Francisco Chaux Guzmán
 
 📊 Economista & Analista de Datos
 📍 Bogotá, Colombia
@@ -9,8 +9,8 @@ Economista con experiencia en procesamiento y análisis de datos para la toma de
 
 ## 🔧 Herramientas
 
-* R · Python · SQL
-* Power BI · Shiny · Tableau
+* R · Python · SQL · SAS · Stata
+* Power BI · Shiny · Tableau · QGIS
 
 ## 🔗 Enlaces
 
