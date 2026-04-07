@@ -1,6 +1,7 @@
 # Francisco Chaux Guzmán
 
 📊 Economista & Analista de Datos
+
 📍 Bogotá, Colombia
 
 ## 🧠 Sobre mí
