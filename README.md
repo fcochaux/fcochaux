@@ -1,16 +1,19 @@
-## Hi there 👋
+# Francisco Chaux
 
-<!--
-**fcochaux/fcochaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Economista & Analista de Datos
+📍 Bogotá, Colombia
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Economista con experiencia en procesamiento y análisis de datos para la toma de decisiones, en especial en temáticas económicas y sociales. Competente en el manejo de herramientas de programación y visualización de datos, con orientación a la optimización de procesos, aseguramiento de calidad y generación de productos analíticos. Perfil proactivo, con habilidades para el trabajo colaborativo, la documentación técnica y la comunicación efectiva.
+
+## 🔧 Herramientas
+
+* R · Python · SQL
+* Power BI · Shiny · Tableau
+
+## 🔗 Enlaces
+
+* CV (PDF)
+* LinkedIn
+* Portafolio
