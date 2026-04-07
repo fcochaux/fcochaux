@@ -15,4 +15,4 @@ Economista con experiencia en procesamiento y análisis de datos para la toma de
 ## 🔗 Enlaces
 
 * [Hoja de vida (PDF)](./CV_FranciscoChauxG.pdf)
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/francisco-chaux-guzm%C3%A1n-1990b676/)
